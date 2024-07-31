@@ -17,6 +17,7 @@ public class InvoiceBean {
     private String prefix;
     private String telephone;
     private String email;
+    private String cp;
 
     public String getCp() {
         return cp;
@@ -26,7 +27,7 @@ public class InvoiceBean {
         this.cp = cp;
     }
 
-    private String cp;
+
 
 
 
