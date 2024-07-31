@@ -15,7 +15,7 @@ public class RegistryAction extends ActionSupport {
     }
 
     /**
-     * Provide default valuie for Message property.
+     * Provide default value for Message property.
      */
     public static final String MESSAGE = "hello.message";
     public static final String TITTLE_FORM_MESSAGE = "form.tittle.message";
